@@ -1,0 +1,7 @@
+* Shopping List
+Challenge 2 - Day 32 - HackingWithSwift
+
+This time your job is to create an app that lets people create a shopping list by adding items to a table view.
+For bonus points, add a left bar button item that clears the shopping list – what method should be used afterwards to make the table view reload all its data?
+
+[[Screen Shot 2019-09-10 at 10.22.47 AM.png]]
